@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">InstagramApp</string>
+    <string name="demo_card_text">lallaa</string>
+    <string name="shiba">Shiba Inu</string>
+    <string name="golden">Golden Retriever</string>
+    <string name="german">German Shepherd</string>
+    <string name="rott">Rottweiler</string>
+    <string name="subtitle">2 hours ago</string>
+    <string name="goldenDesc">The Golden Retriever is a medium-large gun dog that retrieves shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name "retriever" refers to the breed\'s ability to retrieve shot game undamaged due to their soft mouth.</string>
+    <string name="germanDesc">The German Shepherdmis a breed of medium to large-sized working dog that originated in Germany. Despite its primitive, wolf-like appearance the German Shepherd is a relatively modern breed of dog, with their origin dating to 1899.
+</string>
+    <string name="rottDesc">The Rottweiler a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers\' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market.
+</string>
+    <string name="shibaDesc">The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan. A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was originally bred for hunting.</string>
 </resources>
